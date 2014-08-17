@@ -1,0 +1,17 @@
+.DS_Store/*
+
+.metadata/*
+
+*.swp
+
+target/*
+
+log/
+
+.classpath
+
+.project
+
+.settings/
+framework/test-output/*
+framework/target/surefire-reports/
