@@ -1,0 +1,12 @@
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-08-16 23:23:20.874
+!MESSAGE Error writing workspace state file
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-08-16 23:23:20.878
+!MESSAGE Unable to add com/ebay/test/framework/0.0.1-SNAPSHOT/framework-0.0.1-SNAPSHOT.pom
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-08-16 23:23:20.890
+!MESSAGE Can't save classpath container state for framework
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-08-16 23:23:20.918
+!MESSAGE Can't save classpath container state for framework

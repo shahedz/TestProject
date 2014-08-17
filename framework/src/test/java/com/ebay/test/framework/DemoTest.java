@@ -10,6 +10,6 @@ public class DemoTest extends BaseClass {
 	
 	@Test
 	public void testOne(){
-		System.out.println("Hello eBay");
+		System.out.println("what e2 = ?");
 	}
 }
